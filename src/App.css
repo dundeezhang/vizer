@@ -1,0 +1,14 @@
+.time {
+    font-size: 3vmin;
+    margin: 0;
+    text-align: right;
+}
+
+div.time-div {
+    position: absolute;
+    justify-content: left;
+}
+
+app-body {
+    height: 100vh;
+}
